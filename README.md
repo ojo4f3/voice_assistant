@@ -18,7 +18,7 @@ NEWS & HEADLINES: News
 JOKE & TELL: Joke
 YOU & YOUR: Assistant
 
-**Loging Branching**
+**Logic Branching**
 "Hey Chuck"
 "Search for"
 "Joke tell"
